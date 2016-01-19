@@ -1,0 +1,2 @@
+- service: iojs-eslint
+  command: docker run stanislavb/iojs-eslint

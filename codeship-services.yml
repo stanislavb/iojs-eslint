@@ -1,0 +1,4 @@
+iojs-eslint:
+  build:
+    image: stanislavb/iojs-eslint
+    dockerfile_path: Dockerfile
